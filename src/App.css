@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.top-p-tag-title-style {
+  margin-top: 25px;
+  font-size: 35px;
+  color: white;
+  font-weight: bold;
+}
